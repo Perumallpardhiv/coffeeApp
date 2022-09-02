@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "526812861637",
+    "project_id": "peru-brew-crew",
+    "storage_bucket": "peru-brew-crew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526812861637:android:fbebe6da6901c5c90eccac",
+        "android_client_info": {
+          "package_name": "com.perumall.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526812861637-63cdp840h68o86ifmhokp7ho81sid6gf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACVD76aqUj32cfST9P84O4SgwoPIA5iR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526812861637-63cdp840h68o86ifmhokp7ho81sid6gf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
